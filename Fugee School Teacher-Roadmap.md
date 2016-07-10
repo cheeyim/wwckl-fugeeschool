@@ -10,15 +10,22 @@ The BIG idea is to _**introduce**_ and _**inspire**_ students into Technology, s
 - Try your best to give analogy/story in almost every explanation, so that student will get better idea.
 - [SOME GOOD ADVICE – DEAR MENTORS, PLEASE CONTRIBUTE YOUR TWO CENTS HERE BUT LET’S KEEP THIS SHORT =)]
 
-## Grand Execution Plan
-By the end of the semester, every student should complete their own web application of:
-- Something that solves their daily needs
-- Clone a website (e.g. google.com) - ideas from http://www.portfoliotips.co/portfolio-project-ideas/
-- HTML with JavaScript running on mobile phone browser
-- [OPEN FOR MORE FUN IDEAS]
+## Grand Execution Plan (Final Assignment)
+By the end of the semester, each group (6 groups since we are limited to 6 desktops) should complete their own website with requirements as below:-
+- At least 5 pages
+- Make use of HTML5 and CSS elements
+- Contain navigation
+- Consistent header, footer and menu
+- JavaScript elements
 
 ## Sub Execution Plan
-Once the "final" project above is confirmed, we'll break it down into 6 milestones where each month's theme will focus to teach/learn the concepts of the milestone.
+We'll have 6 milestones where each month's theme will focus to teach/learn the concepts that leads to the completion of the final assignment.
+- Milestone #1 - HTML5 and CSS3 basics
+- Milestone #2 - Layout
+- Milestone #3 - Navigation (i.e. simple JavaScript animation, menu and images)
+- Milestone #4 - HTML Forms (i.e. form elements, validation, JavaScript posting)
+- Milestone #5 - TBC
+- Milestone #6 - TBC
 
 # Sample Teaching Template
 **Milestone** - (MILESTONE #1)  
@@ -27,6 +34,7 @@ Once the "final" project above is confirmed, we'll break it down into 6 mileston
 Duration: 2 – 2.5 hours
 
 1. Introduce & Inspire (15 mins)
+    * Mentor to talk about their work experience / why they chose to be in Tech
     * Suggested Material:- http://javascriptissexy.com/learn-html5-css3-and-responsive-web-site-design-in-one-go/
     * https://googlecreativelab.github.io/coder-projects/
     * http://www.portfoliotips.co/portfolio-project-ideas/
