@@ -61,11 +61,18 @@ Suggested Materials:
 * https://www.freecodecamp.com/map
 * http://www.w3schools.com/html/default.asp
 
-1. Introduce & Inspire (15 mins)
+1. Introduce & Inspire (30 mins)  
+   * Talk a little bit about what programming is:  
+      * http://ask.metafilter.com/148701/How-do-I-explain-programming-to-a-12yearold  
+   * Introduce students to HTML and tags nesting concept:  
+      * https://geeksandglitter.wordpress.com/2012/11/01/the-human-body-in-html/  
+      * http://webdesign.tutsplus.com/tutorials/web-design-for-kids-html-structure--cms-23763  
 
-2. Teach Thinking Concepts (30 mins) - Optional
+2. Teach Thinking Concepts (15 mins) - Optional
 
 3. Learning / Tutorial (1 – 1.5 hours)
+   * To follow the material on https://www.freecodecamp.com/map. Aim to cover all topics HTML5 and CSS3
+   * To provide handouts for reference
 
 ***
 
@@ -81,6 +88,7 @@ Suggested Materials:
 2. Teach Thinking Concepts (30 mins) - Optional
 
 3. Learning / Tutorial (1 – 1.5 hours)
+   * Resume from where we left off from https://www.freecodecamp.com/map - HTML5 and CSS3
    * Remind students to finalise their assignment groups.
 
 ***
