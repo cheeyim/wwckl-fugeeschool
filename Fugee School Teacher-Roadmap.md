@@ -72,7 +72,7 @@ Suggested Materials:
 
 3. Learning / Tutorial (1 – 1.5 hours)
    * To follow the material on https://www.freecodecamp.com/map. Aim to cover all topics HTML5 and CSS3
-   * To provide handouts for reference
+   * To provide handouts for reference - https://github.com/cheeyim/wwckl-fugeeschool/blob/master/DayOne.md
 
 ***
 
