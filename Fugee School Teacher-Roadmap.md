@@ -98,7 +98,7 @@ Suggested Materials:
    
 **Milestone #1** - HTML5 and CSS3 basics   
 **Week 3** – HTML5 with CSS3 - Intermediate  
-**Mentors** - Thiam Hooi & Faezrah  
+**Mentors** - Tom, Fadzlan, Thiam Hooi & Faezrah  
 **Objective**: To introduce more advance HTML5 / CSS3 elements  
 **Note**: Mentors to get feedback from Week #1 and Week #2 mentors on what were taught in previous lessons.  
 **Duration**: 2 – 2.5 hours  
@@ -108,12 +108,43 @@ Suggested Materials:
 * https://www.freecodecamp.com/map
 * http://www.w3schools.com/html/default.asp
 
-1. Introduce & Inspire (15 mins)
+1. Recap on previous week session (20 mins)
+   * HTML elements
+     * Opening & Closing "Door" (tags)
+   * HTML Heading
+   * HTML Paragraph
+   * HTML Comment
+   * HTML Style
+     * Font Color
 
-2. Teach Thinking Concepts (30 mins) - Optional
+2. Introduce & Inspire (30 mins)
+   * Media (Image) on Web - 10 mins
+     * Self-closing 
+   * HTML Table like Excel Sheet - 10 mins
+   * HTML Style (Font Size & Background Color) - 10 mins
 
-3. Learning / Tutorial (1 – 1.5 hours)
+3. Teach Thinking Concepts (10 mins) - Optional
+
+4. Learning / Tutorial (1 hour)
    * Students should finalise their groups. Get their names and start encouraging students to think of ideas of their website.
+   * HTML Image
+     * Src
+     * Alt & Title
+     * Link
+     * HTML Style
+       * Size
+   * HTML Table
+     * Row
+     * Column Header
+     * Column
+     * Caption
+     * Colspan
+     * Rowspan
+     * Border
+   * HTML Style
+     * Font Size
+     * Background color
+   * Handouts https://github.com/cheeyim/wwckl-fugeeschool/blob/master/week03.md
    
 ***
 
