@@ -28,7 +28,8 @@ We'll have 6 milestones where each month's theme will focus to teach/learn the c
 - Milestone #6 - TBC
 
 ## Tool  
-Use http://codepen.io/ to code HTML, CSS and JavaScript. Save as one account to retrieve the files for later use.
+Use http://codepen.io/ to code HTML, CSS and JavaScript. Save as one account to retrieve the files for later use.  
+Credential: jecelyn / password
 
 # Sample Teaching Template
 **Milestone** - (MILESTONE #1)  
