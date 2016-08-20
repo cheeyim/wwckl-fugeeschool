@@ -79,6 +79,7 @@ Suggested Materials:
 
 ***
 
+**_Class cancelled due to Field Trip_**  
 **Milestone #1** - HTML5 and CSS3 basics  
 **Week 2** – Understanding HTML5 with CSS3 basics.  
 **Mentors** - Tom & Fadzlan  
@@ -118,8 +119,9 @@ Suggested Materials:
      * Font Color
 
 2. Introduce & Inspire (30 mins)
-   * Media (Image) on Web - 10 mins
+   * Media (Image) on Web - 10 mins 
      * Self-closing 
+   * Anchor (linking through image)
    * HTML Table like Excel Sheet - 10 mins
    * HTML Style (Font Size & Background Color) - 10 mins
 
