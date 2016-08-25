@@ -7,10 +7,9 @@
 ### let's create a todo list
 
 1. Create a list of tasks
-  * using ordered and unordered list [reference](https://www.freecodecamp.com/challenges/create-an-ordered-list)
+  * using ordered and unordered list [https://www.freecodecamp.com/challenges/create-an-ordered-list](https://www.freecodecamp.com/challenges/create-an-ordered-list)
 
 ```
-example
 <ol>
   <li>learn coding</li>
     <ul>
@@ -24,7 +23,7 @@ example
 </ol>
 ```
 
-  * insert checkbox in each tasks [reference](https://www.freecodecamp.com/challenges/create-a-set-of-checkboxes)
+  * insert checkbox in each tasks [https://www.freecodecamp.com/challenges/create-a-set-of-checkboxes](https://www.freecodecamp.com/challenges/create-a-set-of-checkboxes)
 
 ```
 <body>
