@@ -207,6 +207,7 @@ ul li:before
 
 ### Learn more about layout position (homework)
   * http://learnlayout.com/position-example.html
+  
 ### More Challenges (homework)
   * https://www.freecodecamp.com/challenges/create-a-set-of-checkboxes
   * https://www.freecodecamp.com/challenges/create-an-ordered-list
