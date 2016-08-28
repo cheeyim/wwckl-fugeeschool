@@ -152,17 +152,21 @@ Suggested Materials:
 ***
 
 **Milestone #1** - HTML5 and CSS3 basics   
-**Week 4** – HTML5 with CSS3 - Media, Video, Images  
+**Week 4** – HTML5 with CSS3 - More stylings & CSS  
 **Mentors** - Jun Xian & Pei Yee  
 **Objective**: To introduce more advance HTML5 / CSS3 elements  
 **Duration**: 2 – 2.5 hours  
 
-1. Introduce & Inspire (15 mins)
+1. Recap on previous week session (20 mins)
+   * Display image on our web page
+   * Change image into a clickable link
+   * Structure our web page layout by using table
 
-2. Teach Thinking Concepts (30 mins) - Optional
-
-3. Learning / Tutorial (1 – 1.5 hours)
+2. Learning / Tutorial (1 – 1.5 hours)
    * Ask students of their assignment ideas. Allocate time to brainstorm within groups.
+   * HTML Unordered List
+   * Introduction to CSS
+   * Handouts - https://github.com/cheeyim/wwckl-fugeeschool/blob/master/week04.md 
 
 ***
 
