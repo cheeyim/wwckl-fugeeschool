@@ -177,7 +177,7 @@ Suggested Materials:
 **Duration**: 2 – 2.5 hours  
 
 1. Recap on previous month HTML tags learnt thus far (20 mins)
-   * Display sample personal websites (i.e. http://jenifferdake.com/)
+   * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
    * Draw on the board a sample website layout and add suggested html tags to achieve it
 
 2. Learning / Tutorial (1 – 1.5 hours)
