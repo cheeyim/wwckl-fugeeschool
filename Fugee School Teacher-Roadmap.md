@@ -170,6 +170,23 @@ Suggested Materials:
 
 ***
 
+**Milestone #2** - Layout   
+**Week 5** – Organising Website: Design Layout  
+**Mentors** - Jun Xian & Pei Yee  
+**Objective**: To organise website developed so far by using CSS and div tag   
+**Duration**: 2 – 2.5 hours  
+
+1. Recap on previous month HTML tags learnt thus far (20 mins)
+   * Display sample personal websites (i.e. http://jenifferdake.com/)
+   * Draw on the board a sample website layout and add suggested html tags to achieve it
+
+2. Learning / Tutorial (1 – 1.5 hours)
+   * Explain to students that CSS is created (with flexbox concept). Student is asked to use the CSS class and mentors will explain the CSS bit in the following week.
+   * Mentors to guide students to organise their one-page website to the suggested simple layout
+   * Reference - https://github.com/junxianlim/fugee-school-work 
+
+***
+
 ## Appendix - Ideas from Hans Kristanto
 **Milestone #1** - HTML5 and CSS3 basics  
 **Week 1** – Introduction to Web Programming – Part 1  
