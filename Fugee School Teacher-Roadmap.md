@@ -8,7 +8,12 @@ The BIG idea is to _**introduce**_ and _**inspire**_ students into Technology, s
 - Keep it simple, stupid
 - Give students something to achieve every week, so they can see that they are progressing.
 - Try your best to give analogy/story in almost every explanation, so that student will get better idea.
-- [SOME GOOD ADVICE – DEAR MENTORS, PLEASE CONTRIBUTE YOUR TWO CENTS HERE BUT LET’S KEEP THIS SHORT =)]
+- Always encourage students. 
+- Be aware of the surrounding. If students are not following, slow down. 
+- Throw your voice to the class. 
+- Make an effort to contact your partner and prepare with him / her one week beforehand. This is so people can provide feedback when you upload your material. 
+- Give students the direction on what we are planning to learn from the beginning.  
+- Helpers try to allow students to type themselves even when they'll be slow. Do not take over their laptop. 
 
 ## Grand Execution Plan (Final Assignment)
 By the end of the semester, each group (6 groups since we are limited to 6 desktops) should complete their own website with requirements as below:-
