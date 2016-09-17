@@ -20,12 +20,12 @@ By the end of the semester, each group (6 groups since we are limited to 6 deskt
 
 ## Sub Execution Plan
 We'll have 6 milestones where each month's theme will focus to teach/learn the concepts that leads to the completion of the final assignment.
-- Milestone #1 - HTML5 and CSS3 basics
-- Milestone #2 - Layout (i.e. tables)
-- Milestone #3 - Navigation (i.e. simple JavaScript animation, menu and images)
-- Milestone #4 - HTML Forms (i.e. input types, elements, attributes, validation, JavaScript posting)
-- Milestone #5 - JavaScript basics
-- Milestone #6 - TBC
+- Milestone #1 - Static Website: HTML5 and CSS3 basics
+- Milestone #2 - Static Website: Layout (i.e. tables, div, flexbox)
+- Milestone #3 - Static Website: Navigation (i.e. menu, anchor linking for one page website)
+- Milestone #4 - Responsive Website: Deploy website to server, JavaScript basics for effects
+- Milestone #5 - Responsive Website: TBC
+- Milestone #6 - Responsive Website: TBC
 
 ## Tool  
 Use http://codepen.io/ to code HTML, CSS and JavaScript. Save as one account to retrieve the files for later use.  
@@ -99,7 +99,7 @@ Suggested Materials:
 ***
    
 **Milestone #1** - HTML5 and CSS3 basics   
-**Week 3** – HTML5 with CSS3 - Intermediate  
+**Week 2** – HTML5 with CSS3 - Intermediate  
 **Mentors** - Tom, Fadzlan, Thiam Hooi & Faezrah  
 **Objective**: To introduce more advance HTML5 / CSS3 elements  
 **Note**: Mentors to get feedback from Week #1 and Week #2 mentors on what were taught in previous lessons.  
@@ -152,7 +152,7 @@ Suggested Materials:
 ***
 
 **Milestone #1** - HTML5 and CSS3 basics   
-**Week 4** – HTML5 with CSS3 - More stylings & CSS  
+**Week 3** – HTML5 with CSS3 - More stylings & CSS  
 **Mentors** - Jun Xian & Pei Yee  
 **Objective**: To introduce more advance HTML5 / CSS3 elements  
 **Duration**: 2 – 2.5 hours  
@@ -171,7 +171,7 @@ Suggested Materials:
 ***
 
 **Milestone #2** - Layout   
-**Week 5** – Organising Website: Design Layout  
+**Week 4** – Organising Website: Design Layout  
 **Mentors** - Jun Xian & Pei Yee  
 **Objective**: To organise website developed so far by using CSS and div tag   
 **Duration**: 2 – 2.5 hours  
@@ -186,6 +186,88 @@ Suggested Materials:
    * Reference - https://github.com/junxianlim/fugee-school-work 
 
 ***
+
+**Milestone #3** - Navigation   
+**Week 5** – Menu and Anchor Linking  
+**Mentors** - Daphne (Main Mentor) & Siti (Helper)  
+**Objective**: Ensure that students build their menu of at least 4 links (i.e. About Me, Interest, Aspirations, My Country) and understand how to link up to different sections of their one-page website.      
+**Duration**: 2 hours  
+
+1. Recap on objective of one page website we are trying to build (20 mins)
+   * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
+   * Draw on the board a sample website layout with additional menu and sections (for anchor linking purposes).  
+
+2. Learning / Tutorial (1 – 1.5 hours)
+   * < Mentors to fill in content here >   
+
+***
+
+**Milestone #2** - Layout     
+**Week 6** – CSS - More Layout Options  
+**Mentors** - Thiam Hooi (Main Mentor) & Tom (Helper)  
+**Objective**: To introduce more layout options (i.e. how to include 3 columns images, 3 rows x 2 columns arrangement) using CSS. This is so students are able to add different layout to various sections (i.e. About Me, Interest, Aspirations, My Country).     
+**Duration**: 2 hours  
+
+1. Recap on objective of one page website we are trying to build (20 mins)
+   * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
+   * Draw on the board a sample website layout mentors will be teaching.  
+   * Suggested Material:-
+     * http://learn.shayhowe.com/html-css/organizing-data-with-tables/  
+     * http://learn.shayhowe.com/html-css/positioning-content/ (optional if students are able to follow) 
+
+2. Learning / Tutorial (1 – 1.5 hours)
+   * < Mentors to fill in content here >   
+
+***
+
+**Milestone #2** - Layout     
+**Week 7** – CSS - Understanding Layout.    
+**Mentors** - Faezrah (Main Mentor) & Syafiqah (Helper)  
+**Objective**: To recap all layout options taught and ensure students understand the concept at a high-level (i.e. div tag, flexbox, table)
+**Duration**: 2 hours  
+
+1. Recap on objective of one page website we are trying to build (20 mins)
+   * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
+   * Draw on the board different layout options learnt so far.
+   * Ensure all students have organized their website content well or have use either one of the layout options taught. 
+
+2. Learning / Tutorial (1 – 1.5 hours)
+   * < Mentors to fill in content here >   
+
+***
+
+**Milestone #1** - HTML and CSS Basic Elements     
+**Week 8** – CSS - Beautify Website  
+**Mentors** - Tim (Main Mentor) & Faezrah (Helper)  
+**Objective**: To introduce elements that help students to beautify their website through CSS (i.e. fonts, background gradient)  
+**Duration**: 2 hours  
+
+1. Recap on objective of one page website we are trying to build (20 mins)
+   * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
+   * Showcase / talk alittle about website design - what simple things we can do to make our website looks good (i.e. teach them to use high quality big image) 
+   * Suggested Material:-
+     * http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
+     * http://learn.shayhowe.com/html-css/working-with-typography/
+
+2. Learning / Tutorial (1 – 1.5 hours)
+   * < Mentors to fill in content here >   
+
+***
+
+**Milestone #1** - HTML and CSS Basic Elements     
+**Week 9** – HTML & CSS Wrap Up!
+**Mentors** - Faezrah (Main Mentor) & Tim (Helper)  
+**Objective**: To ensure students have a good grasp of what HTML and CSS are through Q&A / Quiz / Presentations of their own website. 
+**Duration**: 2 hours  
+
+1. Pop Quiz
+   * < Mentors to fill in content here > 
+
+2. Presentation of Personal Website (20 mins)
+   * < Mentors to fill in content here >   
+
+***
+
 
 ## Appendix - Ideas from Hans Kristanto
 **Milestone #1** - HTML5 and CSS3 basics  
