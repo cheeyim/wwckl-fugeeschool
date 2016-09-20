@@ -233,26 +233,26 @@ Suggested Materials:
    </div>
    ```
    * Alright, HTML part is done! Now is time to style the menu and sections:
-     * First, make each section a large width of 1000px height each.
+     * First, make each section a large height of 1000px each.
      ```
      .my-info, .my-interest, .my-aspirations, .my-country {
         height: 1000px
       }
       ```
-      * Then, make the navigation div (nav) a fix height of 70px.
+      * Then, make the navigation div (```nav```) a fix height of 70px.
       ```
       #nav {
         height: 70px;
       }
       ```
-      * We want the navigation unordered list (ul) to display on the right. We also want to remove the default bullet discs on the list items.
+      * We want the navigation unordered list (```ul```) to display on the right. We also want to remove the default bullet discs on the list items.
       ```
       #nav ul {
         float: right;
         list-style: outside none none;
       }
       ```
-      * Instead of the menu list items (li) lining up vertically, we want them to line up horizontally. Add display:inline-block to #nav li. We also want a bit of spacing between the text and the side of the boxes (padding). Add padding: 8px 18px; to #nav li.
+      * Instead of the menu list items (```li```) lining up vertically, we want them to line up horizontally. Add ```display:inline-block;``` to ```#nav li```. We also want a bit of spacing between the text and the side of the boxes (padding). Add ```padding: 8px 18px;``` to ```#nav li```.
        (https://en.wikipedia.org/wiki/CSS_box_model)
       ```
       #nav li {
@@ -260,7 +260,7 @@ Suggested Materials:
         padding: 8px 18px;  
       }
       ```
-      * We want to make the text looks nicer. For the font size and family, add font-size: 14px and font-family: Helvetica,Arial,sans-serif; Use a grey colour by adding color: rgb(77,77,77). We do not want the text to be underlined, add text-decoration: none. 
+      * We want to make the text looks nicer. For the font size and family, add ```font-size: 14px;``` and ```font-family: Helvetica,Arial,sans-serif;```. Use a grey colour by adding ```color: rgb(77,77,77);```. We do not want the text to be underlined, add ```text-decoration: none;```. 
       ```
       #nav a {
         font-size: 14px;
