@@ -194,7 +194,7 @@ Suggested Materials:
 
 **Milestone #3** - Navigation   
 **Week 5** – Menu and Anchor Linking  
-**Mentors** - Daphne (Main Mentor) & Siti (Helper)  
+**Mentors** - Daphne (Main Mentor) & CY (Helper)  
 **Objective**: Ensure that students build their menu of at least 4 links (i.e. About Me, Interest, Aspirations, My Country) and understand how to link up to different sections of their one-page website.      
 **Duration**: 2 hours  
 
@@ -203,8 +203,40 @@ Suggested Materials:
    * Draw on the board a sample website layout with additional menu and sections (for anchor linking purposes).  
 
 2. Learning / Tutorial (1 – 1.5 hours)
-   * < Mentors to fill in content here >   
+   * First, create the menu at the top of your website:
+   ```
+   <div id="nav">
+     <ul>
+         <li><a href="#about">About Me</a></li>
+         <li><a href="#interest">Interest</a></li>
+         <li><a href="#aspirations">Aspirations</a></li>
+         <li><a href="#country">My Country</a></li>
+     </ul>
+   </div>
+   ```
+   * Then add the anchor code below for each of the My-Info section:
+   ```
+   <div class="my-info">
+      <a id="about" ></a> About page content goes here.
+   </div>
+   ```
+   * Continue for the rest of the sections as declared in the menu above:
+   ```
+   <div class="my-interest">
+      <a id="interest" ></a> Interest page content goes here.
+   </div>
+   <div class="my-aspirations">
+      <a id="aspirations" ></a> Aspiration page content goes here.
+   </div>
+   <div class="my-country">
+      <a id="country" ></a> Country page content goes here.
+   </div>
+   ```
+   * Alright, HTML part is done! Now is time to style the menu and sections:
+     *  < CSS codes put here > 
 
+2. Extra  
+   * https://www.codecademy.com/learn/make-a-website
 ***
 
 **Milestone #2** - Layout     
