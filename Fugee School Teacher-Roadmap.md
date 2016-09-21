@@ -207,10 +207,10 @@ Suggested Materials:
    ```
    <div id="nav">
      <ul>
-         <li><a href="#about">About Me</a></li>
-         <li><a href="#interest">Interest</a></li>
-         <li><a href="#aspirations">Aspirations</a></li>
-         <li><a href="#country">My Country</a></li>
+         <li class="first"><a href="#about">About Me</a></li>
+         <li class="second"><a href="#interest">Interest</a></li>
+         <li class="third"><a href="#aspirations">Aspirations</a></li>
+         <li class="fourth"><a href="#country">My Country</a></li>
      </ul>
    </div>
    ```
@@ -233,8 +233,72 @@ Suggested Materials:
    </div>
    ```
    * Alright, HTML part is done! Now is time to style the menu and sections:
-     *  < CSS codes put here > 
-
+     * First, make each section a large height of 1000px each.
+     ```
+     .my-info, .my-interest, .my-aspirations, .my-country {
+        height: 1000px
+      }
+      ```
+      * Then, make the navigation div (```nav```) a fix height of 70px.
+      ```
+      #nav {
+        height: 70px;
+      }
+      ```
+      * We want the navigation unordered list (```ul```) to display on the right. We also want to remove the default bullet discs on the list items.
+      ```
+      #nav ul {
+        float: right;
+        list-style: outside none none;
+      }
+      ```
+      * Instead of the menu list items (```li```) lining up vertically, we want them to line up horizontally. Add ```display:inline-block;``` to ```#nav li```. We also want a bit of spacing between the text and the side of the boxes (padding). Add ```padding: 8px 18px;``` to ```#nav li```.
+       (https://en.wikipedia.org/wiki/CSS_box_model)
+      ```
+      #nav li {
+        display: inline-block;
+        padding: 8px 18px;  
+      }
+      ```
+      * We want to make the text looks nicer. For the font size and family, add ```font-size: 14px;``` and ```font-family: Helvetica,Arial,sans-serif;```. Use a grey colour by adding ```color: rgb(77,77,77);```. We do not want the text to be underlined, add ```text-decoration: none;```. 
+      ```
+      #nav a {
+        font-size: 14px;
+        font-family: Helvetica,Arial,sans-serif;
+        color: rgb(77,77,77);
+        text-decoration: none;
+      }
+      ```
+      * Lastly, we want to have matching colours to the menu items and the sections (light blue, yellow, red and green).
+      ```
+      #nav li.first {
+        background-color: #7CB0C3;
+      }
+      .my-info {
+        background-color: #7CB0C3;
+      }
+      
+      #nav li.second {
+        background-color: #FFCC5C;
+      }
+      .my-interest {
+        background-color: #FFCC5C;
+      }
+      
+      #nav li.third {
+        background-color: #F3716D;
+      }
+      .my-aspirations {
+        background-color: #F3716D;
+      }
+      
+      #nav li.fourth {
+        background-color: #96CEB4;
+      }
+      .my-country {
+        background-color: #96CEB4;
+      }
+      ```
 2. Extra  
    * https://www.codecademy.com/learn/make-a-website
 ***
