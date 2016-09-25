@@ -34,7 +34,8 @@ We'll have 6 milestones where each month's theme will focus to teach/learn the c
 
 ## Tool  
 Use http://codepen.io/ to code HTML, CSS and JavaScript. Save as one account to retrieve the files for later use.  
-Credential: jecelyn / password
+Credential: jecelyn / password  
+Note: Skeleton website is created in Codepen for those who missed some classes.  
 
 # Sample Teaching Template
 **Milestone** - (MILESTONE #1)  
@@ -363,11 +364,12 @@ Suggested Materials:
 **Duration**: 2 hours  
 
 1. Pop Quiz
-   * < Mentors to fill in content here > 
+   * Recap all the lessons through Codeacademy - https://www.codecademy.com/courses/make-a-website  
 
 2. Presentation of Personal Website (20 mins)
    * < Mentors to fill in content here >   
 
+3. Explain JavaScript concepts to ease students into Part 2  
 ***
 
 
