@@ -305,6 +305,7 @@ Suggested Materials:
    
 ***
 
+**_Class cancelled due to Medical Checkup_**  
 **Milestone #2** - Layout     
 **Week 6** – CSS - More Layout Options  
 **Mentors** - Thiam Hooi (Main Mentor) & Tom (Helper)  
@@ -324,9 +325,9 @@ Suggested Materials:
 ***
 
 **Milestone #2** - Layout     
-**Week 7** – CSS - Understanding Layout.    
+**Week 6** – CSS - More Layout Options & Understanding Layout.    
 **Mentors** - Faezrah (Main Mentor) & Syafiqah (Helper)  
-**Objective**: To recap all layout options taught and ensure students understand the concept at a high-level (i.e. div tag, flexbox, table)
+**Objective**: To introduce more layout options (i.e. how to include 3 columns images, 3 rows x 2 columns arrangement) using CSS. To recap all layout options taught and ensure students understand the concept at a high-level (i.e. div tag, flexbox, table)
 **Duration**: 2 hours  
 
 1. Recap on objective of one page website we are trying to build (20 mins)
@@ -335,12 +336,12 @@ Suggested Materials:
    * Ensure all students have organized their website content well or have use either one of the layout options taught. 
 
 2. Learning / Tutorial (1 – 1.5 hours)
-   * < Mentors to fill in content here >   
+   * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit   
 
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
-**Week 8** – CSS - Beautify Website  
+**Week 7** – CSS - Beautify Website  
 **Mentors** - Tim (Main Mentor) & Faezrah (Helper)  
 **Objective**: To introduce elements that help students to beautify their website through CSS (i.e. fonts, background gradient)  
 **Duration**: 2 hours  
@@ -358,7 +359,7 @@ Suggested Materials:
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
-**Week 9** – HTML & CSS Wrap Up!
+**Week 8** – HTML & CSS Wrap Up!
 **Mentors** - Faezrah (Main Mentor) & Tim (Helper)  
 **Objective**: To ensure students have a good grasp of what HTML and CSS are through Q&A / Quiz / Presentations of their own website. 
 **Duration**: 2 hours  
