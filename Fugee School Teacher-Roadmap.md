@@ -342,9 +342,26 @@ Suggested Materials:
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
-**Week 7** – CSS - Beautify Website  
+**Week 7** – CSS - More Layout Options & Understanding Layout 
 **Mentors** - Tim (Main Mentor) & Faezrah (Helper)  
-**Objective**: To introduce elements that help students to beautify their website through CSS (i.e. fonts, background gradient)  
+**Objective**: To introduce more layout options (i.e. how to include 3 columns images, 3 rows x 2 columns arrangement) using CSS. To recap all layout options taught and ensure students understand the concept at a high-level (i.e. div tag, flexbox, table)  
+**Duration**: 2 hours  
+
+1. Recap on objective of one page website we are trying to build (20 mins)
+   * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
+   * Draw on the board different layout options learnt so far.
+   * Ensure all students have organized their website content well or have use either one of the layout options taught. 
+
+2. Learning / Tutorial (1 – 1.5 hours)
+   * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit  
+   * https://docs.google.com/document/d/1L3OziwkmmMsrpz9Tvfw5EJNAf-Tz3k-q0wFU21mUhwY/edit  
+
+***
+
+**Milestone #1** - HTML and CSS Basic Elements     
+**Week 8** – CSS - Beautify Website
+**Mentors** - Tim (Main Mentor)  
+**Objective**: To introduce elements that help students to beautify their website through CSS (i.e. fonts, background gradient). 
 **Duration**: 2 hours  
 
 1. Recap on objective of one page website we are trying to build (20 mins)
@@ -355,23 +372,8 @@ Suggested Materials:
      * http://learn.shayhowe.com/html-css/working-with-typography/
 
 2. Learning / Tutorial (1 – 1.5 hours)
-   * < Mentors to fill in content here >   
-
-***
-
-**Milestone #1** - HTML and CSS Basic Elements     
-**Week 8** – HTML & CSS Wrap Up!
-**Mentors** - Tim (Main Mentor)  
-**Objective**: To ensure students have a good grasp of what HTML and CSS are through Q&A / Quiz / Presentations of their own website. 
-**Duration**: 2 hours  
-
-1. Pop Quiz
-   * Recap all the lessons through Codeacademy - https://www.codecademy.com/courses/make-a-website  
-
-2. Presentation of Personal Website (20 mins)
-   * < Mentors to fill in content here >   
-
-3. Explain JavaScript concepts to ease students into Part 2  
+   * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit  
+   * https://docs.google.com/document/d/1L3OziwkmmMsrpz9Tvfw5EJNAf-Tz3k-q0wFU21mUhwY/edit  
 ***
 
 
