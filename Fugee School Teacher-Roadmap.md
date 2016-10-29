@@ -324,6 +324,7 @@ Suggested Materials:
 
 ***
 
+**_Class did not teach Layout cause there is only one new student_**  
 **Milestone #2** - Layout     
 **Week 6** – CSS - More Layout Options & Understanding Layout.    
 **Mentors** - Faezrah (Main Mentor) & Syafiqah (Helper)  
@@ -360,7 +361,7 @@ Suggested Materials:
 
 **Milestone #1** - HTML and CSS Basic Elements     
 **Week 8** – HTML & CSS Wrap Up!
-**Mentors** - Faezrah (Main Mentor) & Tim (Helper)  
+**Mentors** - Tim (Main Mentor)  
 **Objective**: To ensure students have a good grasp of what HTML and CSS are through Q&A / Quiz / Presentations of their own website. 
 **Duration**: 2 hours  
 
