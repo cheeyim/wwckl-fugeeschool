@@ -376,6 +376,68 @@ Suggested Materials:
    * https://docs.google.com/document/d/1L3OziwkmmMsrpz9Tvfw5EJNAf-Tz3k-q0wFU21mUhwY/edit  
 ***
 
+**Milestone #1** - HTML and CSS Basic Elements     
+**Week 9** – Refresher Course  
+**Mentors** - Hans (Main Mentor) & Irina   
+**Objective**: Go through the basic elements we have learnt so far that enables students to create the first section.  
+**Duration**: 2 hours  
+
+1. Ask students questions related to the HTML/CSS elemnents learnt so far.  
+ ```
+1. What is wrong with this code :
+<div>
+	<h1>Hello World!<h1>
+</div>
+
+2. What is a <b> tag used for?
+
+3. Which one of these heading tag is the largest?
+a. <h1>
+b. <h2>
+c. <h3>
+
+4. To separate single list items use?
+a. <li> and </li>
+b. <ol> and </ol>
+c. <ul> and </ul>
+
+5. How can we set title of the web page?
+
+====================================================
+
+1. Which property is used to change the background color?
+a. background-color
+b. color
+c. bgcolor
+
+2. Which one of these statements indicate the correct HTML for referring external stylesheet?
+a. <stylesheet>mystyle.css</stylesheet>
+b. <style src="mystyle.css">
+c. <link rel="stylesheet" type="text/css" href="mystyle.css">
+
+3. How do you insert a comment in a CSS file?
+a. ' this is a comment
+b. // this is a comment //
+c. /* this is a comment */
+
+4. Which CSS property controls the text size?
+a. text-size
+c. font--size
+
+====================================================
+ ```
+ 
+2. Material: https://docs.google.com/document/d/1C6vzqy6Oy3PGZ2Ho3kUZEdvWxXMRmNq0cYNSJcBWsZo/edit
+***
+
+**Milestone #1** - HTML and CSS Basic Elements     
+**Week 10** – Refresher Course  
+**Mentors** - Hans (Main Mentor) & Irina  
+**Objective**: Go through the basic elements we have learnt so far that enables students to create the second section. 
+**Duration**: 2 hours  
+
+1. Continue from the previous lessons in Week #9   
+
 
 ## Appendix - Ideas from Hans Kristanto
 **Milestone #1** - HTML5 and CSS3 basics  
