@@ -374,6 +374,7 @@ Suggested Materials:
 2. Learning / Tutorial (1 – 1.5 hours)
    * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit  
    * https://docs.google.com/document/d/1L3OziwkmmMsrpz9Tvfw5EJNAf-Tz3k-q0wFU21mUhwY/edit  
+  
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
