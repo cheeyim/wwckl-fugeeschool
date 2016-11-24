@@ -8,12 +8,12 @@ The BIG idea is to _**introduce**_ and _**inspire**_ students into Technology, s
 - Keep it simple, stupid
 - Give students something to achieve every week, so they can see that they are progressing.
 - Try your best to give analogy/story in almost every explanation, so that student will get better idea.
-- Always encourage students. 
-- Be aware of the surrounding. If students are not following, slow down. 
-- Throw your voice to the class. 
-- Make an effort to contact your partner and prepare with him / her one week beforehand. This is so people can provide feedback when you upload your material. 
+- Always encourage students.
+- Be aware of the surrounding. If students are not following, slow down.
+- Throw your voice to the class.
+- Make an effort to contact your partner and prepare with him / her one week beforehand. This is so people can provide feedback when you upload your material.
 - Give students the direction on what we are planning to learn from the beginning.  
-- Helpers try to allow students to type themselves even when they'll be slow. Do not take over their laptop. 
+- Helpers try to allow students to type themselves even when they'll be slow. Do not take over their laptop.
 
 ## Grand Execution Plan (Final Assignment)
 By the end of the semester, each group (6 groups since we are limited to 6 desktops) should complete their own website with requirements as below:-
@@ -55,7 +55,7 @@ Note: Skeleton website is created in Codepen for those who missed some classes.
     * Mentor can try to teach a programming concept with materials here - https://studio.code.org/s/course2
 
 3. Learning / Tutorial (1 – 1.5 hours)
-   * Here, you may provide printouts or 
+   * Here, you may provide printouts or
    * Have students work on something related to the lesson and their final assignment
 
 #Course Outline
@@ -66,7 +66,7 @@ Note: Skeleton website is created in Codepen for those who missed some classes.
 **Note**: Introduce as many HTML5 / CSS3 basics elements to students in order to inspire them for ideas of their own website (final assignment). Get students to form 6 groups for the final assignment.  
 **Duration**: 2 – 2.5 hours  
 
-Suggested Materials: 
+Suggested Materials:
 * https://mva.microsoft.com/en-us/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207?l=yT49wdFfB_6600115888
 * https://www.freecodecamp.com/map
 * http://www.w3schools.com/html/default.asp
@@ -103,7 +103,7 @@ Suggested Materials:
    * Remind students to finalise their assignment groups.
 
 ***
-   
+
 **Milestone #1** - HTML5 and CSS3 basics   
 **Week 2** – HTML5 with CSS3 - Intermediate  
 **Mentors** - Tom, Fadzlan, Thiam Hooi & Faezrah  
@@ -111,7 +111,7 @@ Suggested Materials:
 **Note**: Mentors to get feedback from Week #1 and Week #2 mentors on what were taught in previous lessons.  
 **Duration**: 2 – 2.5 hours  
 
-Suggested Materials: 
+Suggested Materials:
 * https://mva.microsoft.com/en-us/training-courses/html5-css3-fundamentals-development-for-absolute-beginners-14207?l=yT49wdFfB_6600115888
 * https://www.freecodecamp.com/map
 * http://www.w3schools.com/html/default.asp
@@ -126,8 +126,8 @@ Suggested Materials:
      * Font Color
 
 2. Introduce & Inspire (30 mins)
-   * Media (Image) on Web - 10 mins 
-     * Self-closing 
+   * Media (Image) on Web - 10 mins
+     * Self-closing
    * Anchor (linking through image)
    * HTML Table like Excel Sheet - 10 mins
    * HTML Style (Font Size & Background Color) - 10 mins
@@ -154,7 +154,7 @@ Suggested Materials:
      * Font Size
      * Background color
    * Handouts https://github.com/cheeyim/wwckl-fugeeschool/blob/master/week03.md
-   
+
 ***
 
 **Milestone #1** - HTML5 and CSS3 basics   
@@ -172,7 +172,7 @@ Suggested Materials:
    * Ask students of their assignment ideas. Allocate time to brainstorm within groups.
    * HTML Unordered List
    * Introduction to CSS
-   * Handouts - https://github.com/cheeyim/wwckl-fugeeschool/blob/master/week04.md 
+   * Handouts - https://github.com/cheeyim/wwckl-fugeeschool/blob/master/week04.md
 
 ***
 
@@ -189,7 +189,7 @@ Suggested Materials:
 2. Learning / Tutorial (1 – 1.5 hours)
    * Explain to students that CSS is created (with flexbox concept). Student is asked to use the CSS class and mentors will explain the CSS bit in the following week.
    * Mentors to guide students to organise their one-page website to the suggested simple layout
-   * Reference - https://github.com/junxianlim/fugee-school-work 
+   * Reference - https://github.com/junxianlim/fugee-school-work
 
 ***
 
@@ -261,7 +261,7 @@ Suggested Materials:
         padding: 8px 18px;  
       }
       ```
-      * We want to make the text looks nicer. For the font size and family, add ```font-size: 14px;``` and ```font-family: Helvetica,Arial,sans-serif;```. Use a grey colour by adding ```color: rgb(77,77,77);```. We do not want the text to be underlined, add ```text-decoration: none;```. 
+      * We want to make the text looks nicer. For the font size and family, add ```font-size: 14px;``` and ```font-family: Helvetica,Arial,sans-serif;```. Use a grey colour by adding ```color: rgb(77,77,77);```. We do not want the text to be underlined, add ```text-decoration: none;```.
       ```
       #nav a {
         font-size: 14px;
@@ -278,21 +278,21 @@ Suggested Materials:
       .my-info {
         background-color: #7CB0C3;
       }
-      
+
       #nav li.second {
         background-color: #FFCC5C;
       }
       .my-interest {
         background-color: #FFCC5C;
       }
-      
+
       #nav li.third {
         background-color: #F3716D;
       }
       .my-aspirations {
         background-color: #F3716D;
       }
-      
+
       #nav li.fourth {
         background-color: #96CEB4;
       }
@@ -302,7 +302,7 @@ Suggested Materials:
       ```
 2. Extra  
    * https://www.codecademy.com/learn/make-a-website
-   
+
 ***
 
 **_Class cancelled due to Medical Checkup_**  
@@ -317,7 +317,7 @@ Suggested Materials:
    * Draw on the board a sample website layout mentors will be teaching.  
    * Suggested Material:-
      * http://learn.shayhowe.com/html-css/organizing-data-with-tables/  
-     * http://learn.shayhowe.com/html-css/positioning-content/ (optional if students are able to follow) 
+     * http://learn.shayhowe.com/html-css/positioning-content/ (optional if students are able to follow)
 
 2. Learning / Tutorial (1 – 1.5 hours)
    * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit     
@@ -334,7 +334,7 @@ Suggested Materials:
 1. Recap on objective of one page website we are trying to build (20 mins)
    * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
    * Draw on the board different layout options learnt so far.
-   * Ensure all students have organized their website content well or have use either one of the layout options taught. 
+   * Ensure all students have organized their website content well or have use either one of the layout options taught.
 
 2. Learning / Tutorial (1 – 1.5 hours)
    * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit   
@@ -342,7 +342,7 @@ Suggested Materials:
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
-**Week 7** – CSS - More Layout Options & Understanding Layout 
+**Week 7** – CSS - More Layout Options & Understanding Layout
 **Mentors** - Tim (Main Mentor) & Faezrah (Helper)  
 **Objective**: To introduce more layout options (i.e. how to include 3 columns images, 3 rows x 2 columns arrangement) using CSS. To recap all layout options taught and ensure students understand the concept at a high-level (i.e. div tag, flexbox, table)  
 **Duration**: 2 hours  
@@ -350,7 +350,7 @@ Suggested Materials:
 1. Recap on objective of one page website we are trying to build (20 mins)
    * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
    * Draw on the board different layout options learnt so far.
-   * Ensure all students have organized their website content well or have use either one of the layout options taught. 
+   * Ensure all students have organized their website content well or have use either one of the layout options taught.
 
 2. Learning / Tutorial (1 – 1.5 hours)
    * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit  
@@ -361,12 +361,12 @@ Suggested Materials:
 **Milestone #1** - HTML and CSS Basic Elements     
 **Week 8** – CSS - Beautify Website
 **Mentors** - Tim (Main Mentor)  
-**Objective**: To introduce elements that help students to beautify their website through CSS (i.e. fonts, background gradient). 
+**Objective**: To introduce elements that help students to beautify their website through CSS (i.e. fonts, background gradient).
 **Duration**: 2 hours  
 
 1. Recap on objective of one page website we are trying to build (20 mins)
    * Display sample personal websites (i.e. http://jenifferdake.com/ or http://www.colingrist.com/)
-   * Showcase / talk alittle about website design - what simple things we can do to make our website looks good (i.e. teach them to use high quality big image) 
+   * Showcase / talk alittle about website design - what simple things we can do to make our website looks good (i.e. teach them to use high quality big image)
    * Suggested Material:-
      * http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/
      * http://learn.shayhowe.com/html-css/working-with-typography/
@@ -374,7 +374,7 @@ Suggested Materials:
 2. Learning / Tutorial (1 – 1.5 hours)
    * https://docs.google.com/document/d/1oedsqNvWwITnbUKE5S02SAGY4wiCala3wK36RlGry1c/edit  
    * https://docs.google.com/document/d/1L3OziwkmmMsrpz9Tvfw5EJNAf-Tz3k-q0wFU21mUhwY/edit  
-  
+
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
@@ -427,18 +427,59 @@ c. font--size
 
 ====================================================
  ```
- 
+
 2. Material: https://docs.google.com/document/d/1C6vzqy6Oy3PGZ2Ho3kUZEdvWxXMRmNq0cYNSJcBWsZo/edit
 ***
 
 **Milestone #1** - HTML and CSS Basic Elements     
 **Week 10** – Refresher Course  
 **Mentors** - Hans (Main Mentor) & Irina  
-**Objective**: Go through the basic elements we have learnt so far that enables students to create the second section. 
+**Objective**: Go through the basic elements we have learnt so far that enables students to create the second section.
 **Duration**: 2 hours  
 
 1. Continue from the previous lessons in Week #9   
 
+***
+
+**Milestone #1** - HTML and CSS Basic Elements     
+**Week 11** – Refresher Course  
+**Mentors** - Ping and Jalen
+**Objective**: Go through the basic elements we have learnt so far that enables students to polish up their webpage.  
+**Duration**: 2 hours  
+
+1. CSS pop quiz
+
+  ```
+  1. What is CSS used for?
+  a. Add styling to HTML elements
+  b. Create elements on a webpage
+
+  2. Which is the correct CSS syntax?
+  a. { body: color=black; }
+  b. body { color: black; }
+  c. body:color = black;
+
+  3. How do you add a background color for all <h1> elements?
+  a. h1.all { background-color: #FFFFFF; }
+  b. h1 { background-color: #FFFFFF; }
+  c. all.h1 { background-color: #FFFFFF; }
+
+  4. How do you change a text color of an element?
+  a. txtcolor
+  b. text-color
+  c. color
+
+  5. How do you make all <p> elements bold?
+  a. p { text-size: bold; }
+  b. p { font-weight: bold; }
+  c. p { font-size: bold }
+
+  ```
+
+2. CSS refresher
+  * Material on CSS: https://gist.github.com/pynkvalerian/e080adc3cec3b0a5666d3722fbf4b709
+
+***
 
 ## Appendix - Ideas from Hans Kristanto
 **Milestone #1** - HTML5 and CSS3 basics  
@@ -462,7 +503,7 @@ Duration: 2 – 2.5 hours
 **Milestone** - (MILESTONE #1)  
 **Week 2** – Introduction to Web Programming – Part 2  
 **Objective**: By the end of the session, student should be able to understand what HTML, CSS are, and what is the relationship between these 2.  
-Duration: 2 – 2.5 hours 
+Duration: 2 – 2.5 hours
 
 1. Recap on last week session (20 mins)
 2. What is javascript (30 mins)
@@ -472,4 +513,3 @@ Duration: 2 – 2.5 hours
     * Separate javascript as individual file and import it from HTML file
 4. Challenge (40 mins):
     * Build a simple calculator application
-
